@@ -4,9 +4,9 @@
 3. Ganache - local development blockchain
 4. Remix - smart contract IDE
 5. index.html -> 
-   > Initialize Web3
-   > Set Account
-   > Set Contract Abi
-   > Set Contract Address
-   > Set the Contract
+   > Initialize Web3 =>
+   > Set Account =>
+   > Set Contract Abi =>
+   > Set Contract Address =>
+   > Set the Contract =>
 # You are Good to Go
